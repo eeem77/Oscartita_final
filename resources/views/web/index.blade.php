@@ -13,8 +13,7 @@
 						<div class="content">
 							<div class="inner">
 								<h1>ELECTROAUTO OSCARTITA C.A.</h1>
-								<p>A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<br />
-								for free under the <a href="https://html5up.net/license">Creative Commons</a> license.</p>
+								<p>el mejor equipo, para el mantenimiento y cuidado de su automovil.</br> "su vehiculo no se lo pide, nos necesita"</p>
 							</div>
 						</div>
 						<nav>
@@ -33,10 +32,15 @@
 
 						<!-- Intro -->
 							<article id="intro">
-								<h2 class="major">Quienes somos?</h2>
+								<h2 class="major">Electroauto Oscartita C.A.</h2>
 								<span class="image main"><img src="images/pic01.png" alt="" /></span>
-								<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. By the way, check out my <a href="#servicios">nuestros servicios</a>.</p>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
+								<p>
+									Con más de cinco (5) años de experiencia, ofreciendo nuestros 	servicios a una
+ 									alta gamma de clientes, satisfechos de las técnicas aplicadas y resultados de nuestro trabajo. Hemos y seguimos aprendiendo a escucharlo a usted. Entender los problemas observados y analizados por el usuario, nos ayuda a tener la eficiencia deseada, a la hora de resolver el daño que presenta su vehículo.
+								</p>
+								<p>
+									Lo importante para nosotros es el rendimiento de su automóvil y tu seguridad. Contamos con la variedad de proveedores, importante, para obtener el repuesto que mejor se adapte a sus necesidades. Participándole las ventajas y desventajas, según sea la toma de decisiones. Ofreciendo de esta forma una lista de <a href="#servicios">servicios</a>, amplia y elemental para el cuidado y sustentación de sus vehículos.  
+								</p>
 							</article>
 
 						<!-- Work -->
