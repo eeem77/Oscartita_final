@@ -6,6 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Oscartita C.A.</title>
+        <link rel="Shortcut Icon" type="image/x-icon" href="{{asset('images/mecanica.ico')}}"/>
 		<link rel="stylesheet" type="text/css" href="{{asset('assets/css/main.css')}}">
         <noscript><link rel="stylesheet" type="text/css" href="{{asset('assets/css/noscript.css')}}"></noscript>
     </head>

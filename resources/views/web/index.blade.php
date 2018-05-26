@@ -55,14 +55,39 @@
 								</p>
 								<p>
 									Alternadores; juega un rol muy importante en el trabajo eficiente de su vehículo, además de cumplir con la función de mantener la batería completamente cargada, quien se encarga de dar la electricidad necesaria al auto. 
-								</p>									 
+								</p>
+								<p>
+									Inyectores; realizar un mantenimiento general de sus inyectores, limpieza, cambio de filtros, gomas (oring) y la aplicación de pruebas que determinen el comportamiento de ellos al momento de cumplir sus funciones, son importantes para el rendimiento de su vehículo.
+								</p>
+								<p>
+									Mecánica ligera o básica; Es de gran importancia el mantenimiento preventivo de su vehículo, corrección y detección de fallas básicas del motor, sistema eléctrico, inyección, sistema de combustible, frenos, tren delantero y suspensión. Le ofrecemos cambios de neumáticos, amortiguadores, pastillas y mordazas de freno, cambio de aceite, filtros, bujías, cables, tapa y platinos del distribuidor, cambios de faros y lámparas, correas del alternador, entre otros. 
+								</p>
+								<p>
+									Nuestro objetivo es brindarle un servicio profesional y de calidad, que permita solucionar problemas, junto a la capacidad de reaccionar proactivamente ante cualquier eventualidad y comportamiento de su automóvil. <a href="#contacto">Contáctanos</a>, danos a conocer tus necesidades, del resto nos encargamos nosotros.                                	
+								</p>
+																 
 							</article>
+
 
 						<!-- About -->
 							<article id="Tips">
 								<h2 class="major">Tips</h2>
 								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
-								<p>Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.</p>
+								<p>
+									<b>Revisión del aceite:</b> Se recomienda cambiarlo cada cinco mil, ocho mil y diez mil kilómetros dependiendo de diferentes factores como el modelo y el uso. Además, se recomienda revisar de manera regular los niveles de aceite, ya que la falta del mismo puede ocasionar fricción entre metales y ocasionar un daño en el motor.
+								</p>
+								<p>
+									<b>Revisión de llantas:</b> Mantener la presión de aire adecuada al momento de calibrar las llantas es clave, la misma depende del tipo de auto, llantas y rines que se tenga. También es fundamental revisarlas para verificar que no estén desgastadas, con agujeros o posean otras irregularidades. Es aconsejable hacerlas inspeccionar por un especialista por lo menos una vez al año.
+								</p>
+								<p>
+									<b>Alineación y Balanceo:</b> Son de vital importancia, el balanceo es necesario para evitar las vibraciones en el volante cuando se conduce rápido y la alineación es indispensable para que haya una dirección precisa y un desgaste parejo de la banda de rodamiento. Se recomienda hacerlo cada diez mil kilómetros.
+								</p>
+								<p>
+									<b>Revisión de frenos:</b> El estado de los discos, las pastillas y el pedal se debe verificar y hacer revisar por un mecánico por lo menos una vez al mes para evitar accidentes. Además, realizar una inspección periódica del líquido de frenos permitirá un buen rendimiento al andar y mayor seguridad al conducir.
+								</p>
+								<p>
+									<b>Una vez que haya finalizado la garantía de tu carro</b> y ya no puedas seguir haciendo uso de tu concesionario, es indispensable conseguir un taller mecánico de confianza, Electroauto Oscartita C.A. Te invita a formar parte de una gran familia, ofreciéndote garantías y excelentes precios.
+								</p>
 							</article>
 
 						<!-- Contact -->
