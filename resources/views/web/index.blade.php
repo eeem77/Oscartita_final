@@ -86,7 +86,7 @@
 									<b>Revisión de frenos:</b> El estado de los discos, las pastillas y el pedal se debe verificar y hacer revisar por un mecánico por lo menos una vez al mes para evitar accidentes. Además, realizar una inspección periódica del líquido de frenos permitirá un buen rendimiento al andar y mayor seguridad al conducir.
 								</p>
 								<p>
-									<b>Una vez que haya finalizado la garantía de tu carro</b> y ya no puedas seguir haciendo uso de tu concesionario, es indispensable conseguir un taller mecánico de confianza, Electroauto Oscartita C.A. Te invita a formar parte de una gran familia, ofreciéndote garantías y excelentes precios.
+									<b>Una vez que haya finalizado la garantía de tu carro</b> y ya no puedas seguir haciendo uso de tu concesionario, es indispensable conseguir un taller mecánico de confianza, Electroauto Oscartita C.A. Te invita a formar parte de esta gran familia, ofreciéndote garantías, seguridad y excelentes precios.
 								</p>
 							</article>
 
