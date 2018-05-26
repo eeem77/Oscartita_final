@@ -20,8 +20,8 @@
 							<ul>
 								<li><a href="#intro">Intro</a></li>
 								<li><a href="#servicios">Servicios</a></li>
-								<li><a href="#about">Tips</a></li>
-								<li><a href="#contact">Contact</a></li>
+								<li><a href="#Tips">Tips</a></li>
+								<li><a href="#contacto">Contacto</a></li>
 								<!--<li><a href="#elements">Elements</a></li>-->
 							</ul>
 						</nav>
@@ -47,20 +47,27 @@
 							<article id="servicios">
 								<h2 class="major">Servicios</h2>
 								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
-								<p>Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.</p>
-								<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.</p>
+								<p>
+									Electroauto Oscartita C.A. Se destaca por ofrecerle una gran variedad de servicios, el trabajo en equipo, la capacitación del personal, las herramientas y nuestra experiencia, le brindarán a usted como cliente, la tranquilidad y confianza que andaba buscando. Entendemos lo importante de conducir un vehículo en óptimas condiciones, minimizando los riesgos que esto conlleva. Su seguridad es nuestra responsabilidad.
+								</p>
+								<p>
+									Escáner automotriz; un diagnóstico completo de su vehículo, detectando los códigos de error y fallas del auto en tal caso de que existan.
+								</p>
+								<p>
+									Alternadores; juega un rol muy importante en el trabajo eficiente de su vehículo, además de cumplir con la función de mantener la batería completamente cargada, quien se encarga de dar la electricidad necesaria al auto. 
+								</p>									 
 							</article>
 
 						<!-- About -->
-							<article id="about">
-								<h2 class="major">Recomendaciones</h2>
+							<article id="Tips">
+								<h2 class="major">Tips</h2>
 								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
 								<p>Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.</p>
 							</article>
 
 						<!-- Contact -->
-							<article id="contact">
-								<h2 class="major">Contact</h2>
+							<article id="contacto">
+								<h2 class="major">Contacto</h2>
 								<form method="post" action="#">
 									<div class="field half first">
 										<label for="name">Name</label>
