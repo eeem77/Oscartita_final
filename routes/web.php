@@ -1,5 +1,8 @@
 <?php
 
+use Course\Mail\Contact;
+use Illuminate\Support\Facades\Mail;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -12,3 +15,10 @@
 */
 
 Route::get('/', 'FrontEndController@index');
+
+Route::get('contacto', function(){
+	Mail::to('escobarmernestoe@gmail.com', 'Ernesto Escobar')
+		->send(new Contact());
+
+	return back();
+});
